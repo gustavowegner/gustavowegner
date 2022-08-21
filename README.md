@@ -1,9 +1,9 @@
 <h2 align="center">Hey! Seja muito bem-vindo(a) ao meu perfil, eu me chamo Gustavo Wegner! 😄</h2>
-<div align="center">
+
 - 🔭 Atualmente estou a procura de minha primeira oportunidade em FullStack!
 - 🌱 Estou evoluindo cada vez mais em Typescript e React.
 - 👨‍💻 Sou Aluno na UDESC de Análise e Desenvolvimento de Sistemas.
-</div>
+
 ##
 </br>
 <div display="inline_block" align="center">
